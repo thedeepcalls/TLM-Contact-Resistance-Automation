@@ -92,9 +92,3 @@ The current version assumes:
 - The 4155C stores the sweeps in reverse order
 
 The Ohmic / Schottky-like result is only a basic indicator based on I-V linearity.
-
-## Author
-
-Aarush Singh  
-Electrical Engineering — University of Texas at Arlington  
-ASMD Lab
